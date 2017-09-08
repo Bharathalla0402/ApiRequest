@@ -20,7 +20,9 @@
     
     self.view.backgroundColor=[UIColor whiteColor];
     
-    self.view.userinteractionenabled = true;
+    self.view.userInteractionEnabled = true;
+    
+    //demo test
 }
 
 
