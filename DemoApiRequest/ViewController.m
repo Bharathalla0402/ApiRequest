@@ -21,6 +21,7 @@
     self.view.backgroundColor=[UIColor whiteColor];
     
     self.view.userInteractionEnabled = true;
+    self.view.layer.borderColor=(__bridge CGColorRef _Nullable)([UIColor greenColor]);
     
     //demo test
 }
